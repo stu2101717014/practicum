@@ -1,0 +1,20 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/_variables";
+@import "../../node_modules/bootstrap/scss/forms";
+@import "../../node_modules/bootstrap/scss/forms/_labels.scss";
+
+
+.btn-primary{
+  margin: 2px;
+}
+
+#footer{
+  position: absolute;
+  width:100%;
+  bottom: 0;
+}
+
+.card{
+  float: left;
+  margin: 12px;
+}
